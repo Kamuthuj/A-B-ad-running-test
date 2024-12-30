@@ -1,7 +1,5 @@
 # Marketing A/B testing analysis
 
-# Marketing A/B testing analysis
-
 # Project overview.
 This project focuses on analyzing data from an A/B testing experiment conducted in a marketing campaign. The goal is to evaluate the effectiveness of different strategies and uncover actionable insights. The dataset includes user interactions, conversion status, and details about peak ad engagement times.
 
