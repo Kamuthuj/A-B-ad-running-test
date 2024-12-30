@@ -1,3 +1,29 @@
 # Marketing A/B testing analysis
 
-This project analyzes data from an A/B testing experiment in a marketing campaign to evaluate the effectiveness of different strategies and uncover actionable insights. The dataset includes user interactions, conversion status, and details about peak ad engagement times, which were explored through univariate and bivariate analyses. Preprocessing steps involved handling duplicates, removing unnecessary columns, and assessing categorical variables. Visualizations such as count plots, pie charts, histograms, and box plots highlighted data distributions and patterns. Bivariate analysis used cross-tabulations and visualizations to assess conversion rates by test groups, days, and hours, alongside comparisons of total ad views between converted and non-converted users. Statistical testing validated findings using chi-square tests for categorical associations and non-parametric tests for numeric variables, addressing unmet normality assumptions. Results revealed significant differences in conversion rates across variables, providing insights into user behavior and campaign performance. Python libraries like pandas, matplotlib, seaborn, and scipy.stats were used for data manipulation, visualization, and hypothesis testing. This analysis offers a structured approach to interpreting A/B testing results for optimizing marketing strategies.
+# Marketing A/B testing analysis
+
+# Project overview.
+This project focuses on analyzing data from an A/B testing experiment conducted in a marketing campaign. The goal is to evaluate the effectiveness of different strategies and uncover actionable insights. The dataset includes user interactions, conversion status, and details about peak ad engagement times.
+
+# Data preprocessing.
+Preprocessing steps involved:
+
+1. Handling duplicates.
+2. Removing unnecessary columns.
+3. Assessing and encoding categorical variables.
+These steps ensured the dataset was clean and ready for analysi
+
+# Exploratory Data Analysis (EDA)
+1. Univariate Analysis
+Visualizations: Count plots, pie charts, histograms, and box plots were used to explore data distributions and identify patterns.
+Key metrics such as user interactions and ad engagement times were analyzed for trends.
+2. Bivariate Analysis
+Cross-tabulations and visualizations assessed conversion rates by test groups, days, and hours.
+Comparisons of total ad views were made between converted and non-converted users.
+
+# Statistical Testing
+
+To validate findings:
+Chi-square tests were used for assessing associations between categorical variables.
+Non-parametric tests were employed for numeric variables, addressing unmet normality assumptions.
+Significant differences in conversion rates were identified, offering valuable insights into user behavior and campaign performance.
